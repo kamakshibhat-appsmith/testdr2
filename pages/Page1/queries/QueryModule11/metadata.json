@@ -1,6 +1,6 @@
 {
   "gitSyncId": "66b0805e5afb277e9c718cfc_7280a97f-93f2-4b03-82a7-c7b7b993d72d",
-  "id": "Page1__$QueryModule11$_QueryModule1",
+  "id": "Page1__$QueryModule11$_QueryModule1a11q",
   "isPublic": true,
   "moduleInstanceId": "Page1_QueryModule11",
   "pluginId": "postgres-plugin",
@@ -14,7 +14,7 @@
       "name": "Users",
       "pluginId": "postgres-plugin"
     },
-    "name": "_$QueryModule11$_QueryModule1",
+    "name": "_$QueryModule11$_QueryModule1a11q",
     "pageId": "Page1",
     "userSetOnLoad": false
   }
